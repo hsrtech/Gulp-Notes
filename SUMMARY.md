@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Installing Gulp](installing_gulp.md)
-* [Get Started - Project Setup](get_started_-_project_setup.md)
+* Get Started - Project Setup
    * [Add Packages](add_packages.md)
    * Project Setup
 
