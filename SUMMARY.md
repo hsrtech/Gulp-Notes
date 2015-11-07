@@ -15,6 +15,6 @@
        * [Auto Refresh](auto_refresh.md)
    * [Keep a Watch](keep_a_watch.md)
    * Using Compass
-   * Working with JS files
+   * [Working with JS files](working_with_js_files.md)
 * [Distributing your project](distributing_your_project.md)
 
