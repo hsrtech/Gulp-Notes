@@ -18,5 +18,6 @@
    * [Working with JS files](working_with_js_files.md)
    * Image Compression
    * Working with custom fonts
+   * HTML Includes and Compression
 * [Distributing your project](distributing_your_project.md)
 
