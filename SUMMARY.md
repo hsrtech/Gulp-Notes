@@ -19,5 +19,6 @@
    * Image Compression
    * Working with custom fonts
    * HTML Includes and Compression
+   * Bower for common libraries
 * [Distributing your project](distributing_your_project.md)
 
