@@ -10,5 +10,5 @@
    * [Server and autorefresh](server_and_autorefresh.md)
    * [Working with SCSS](working_with_scss.md)
        * [Source Maps](source_maps.md)
-       * Browser Prefixes
+       * [Browser Prefixes](browser_prefixes.md)
 
