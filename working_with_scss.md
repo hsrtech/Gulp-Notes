@@ -47,16 +47,3 @@ So far this task is very simple, but we can do a lot more with this task.
 
 
 
-### Browser Prefixes
-
-Browsers are now implementing new CSS properties almost daily, but most of them remain in experimental stage for a long time, and we need to use browser prefixes in our CSS / SCSS code to use those properties. These prefixes like -webkit-, -moz-, -ms-, etc. makes the code dirty and sometime they are painful to add (CSS3 gradient is one example of complexity of code with use of browser prefixes)
-
-Fortunately, we have JavaScript libraries called autoprefixer, they help us keep the CSS code clean, and they do the dirty task of adding browser prefixes where required.
-
-We are going to use gulp-autoprefixer, main benefit of this package is that we are not adding any additional JavaScript code to our webpage. We will pipe this package within sass task, so it will add prefixes where needed in our CSS code, and we do not need to add them in our SCSS code.
-
-We have already created a reference variable for this package named ‘autoprefixer’, so let’s see how to use it.
-
-Following is the updated sass task, with autoprefixer added in it:
-
-
