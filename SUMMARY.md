@@ -9,5 +9,4 @@
 * Gulp Recipes
    * Working with SCSS
    * [Server and autorefresh](server_and_autorefresh.md)
-       * Working with SCSS
 
