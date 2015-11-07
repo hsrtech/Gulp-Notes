@@ -13,6 +13,6 @@
        * [Browser Prefixes](browser_prefixes.md)
        * [CSS Compression](css_compression.md)
        * [Auto Refresh](auto_refresh.md)
-   * Keep a Watch
+   * [Keep a Watch](keep_a_watch.md)
 * [Distributing your project](distributing_your_project.md)
 
