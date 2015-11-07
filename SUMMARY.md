@@ -8,5 +8,5 @@
    * [Setup Environments](setup_environments.md)
 * Gulp Recipes
    * [Server and autorefresh](server_and_autorefresh.md)
-   * Working with SCSS
+   * [Working with SCSS](working_with_scss.md)
 
