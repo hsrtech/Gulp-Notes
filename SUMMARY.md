@@ -17,5 +17,6 @@
    * Using Compass
    * [Working with JS files](working_with_js_files.md)
    * Image Compression
+   * Working with custom fonts
 * [Distributing your project](distributing_your_project.md)
 
