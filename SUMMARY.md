@@ -16,5 +16,6 @@
    * [Keep a Watch](keep_a_watch.md)
    * Using Compass
    * [Working with JS files](working_with_js_files.md)
+   * Image Compression
 * [Distributing your project](distributing_your_project.md)
 
