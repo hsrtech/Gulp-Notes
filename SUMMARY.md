@@ -13,5 +13,5 @@
        * [Browser Prefixes](browser_prefixes.md)
        * [CSS Compression](css_compression.md)
        * [Auto Refresh](auto_refresh.md)
-* Distributing your project
+* [Distributing your project](distributing_your_project.md)
 
