@@ -9,5 +9,5 @@
 * Gulp Recipes
    * [Server and autorefresh](server_and_autorefresh.md)
    * [Working with SCSS](working_with_scss.md)
-       * Source Maps
+       * [Source Maps](source_maps.md)
 
