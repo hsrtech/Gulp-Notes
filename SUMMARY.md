@@ -7,5 +7,5 @@
    * [Add Packages](add_packages.md)
    * [Setup Environments](setup_environments.md)
 * Gulp Recipes
-   * Server and autorefresh
+   * [Server and autorefresh](server_and_autorefresh.md)
 
