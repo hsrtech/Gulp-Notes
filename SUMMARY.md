@@ -5,5 +5,5 @@
 * Get Started - Project Setup
    * [Project Setup](project_setup.md)
    * [Add Packages](add_packages.md)
-   * Setup Environments
+   * [Setup Environments](setup_environments.md)
 
