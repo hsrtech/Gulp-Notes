@@ -14,5 +14,6 @@
        * [CSS Compression](css_compression.md)
        * [Auto Refresh](auto_refresh.md)
    * [Keep a Watch](keep_a_watch.md)
+   * Using Compass
 * [Distributing your project](distributing_your_project.md)
 
