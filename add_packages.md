@@ -1,4 +1,4 @@
-# Get Started - Project Setup
+#Project Setup
 
 After node.js and gulp are installed, the first step is to create **package.json** file. This file keeps information about your project, and different packages (*Node based javascript libraries*) that you need to automate your workflow.
 
