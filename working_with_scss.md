@@ -1,2 +1,2 @@
-# Working with SCSS
+# SCSS Compilation, Autoprefixer, and CSS Compression
 
