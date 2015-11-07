@@ -12,4 +12,5 @@
        * [Source Maps](source_maps.md)
        * [Browser Prefixes](browser_prefixes.md)
        * [CSS Compression](css_compression.md)
+       * Auto Refresh
 
